@@ -16,7 +16,7 @@ These technologies form the foundation of our application development, enabling 
 
 ## Purpose
 
-Our repository is a dynamic collection of projects that span from beginner-friendly applications to more advanced software endeavors. We strive to implement recommended best practices and utilize cutting-edge tools in our development process. This not only equips us with practical experience but also enhances our capabilities as software engineers.
+Our repository is a dynamic collection of projects that span from beginner-friendly applications to more advanced software endeavors. We strive to implement recommended best practices and utilize cutting-edge tools in our development process. This not only equips us with practical experience but also enhances our capabilities as software engineers. We strife to do more
 
 ## Project Progression
 
